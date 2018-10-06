@@ -3,8 +3,8 @@
 
 var friends = [
   {
-    name: "Ahmed",
-    photo: "https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAq7AAAAJDAwYzI4NTQ4LWYwZWUtNGFkYS1hNTYwLTZjYzkwY2ViZDA3OA.jpg",
+    name: "Bobby Joe",
+    photo: "http://www.nissostudios.com/wp-content/gallery/headshot-photography/Mens-actors-actor-headshots-nisso-jaime-chalem-photography-miami-fort-lauderdale-west-palm-beach-film-tv-commercial-0615.jpg",
     scores: [
       "5",
       "1",
@@ -19,8 +19,8 @@ var friends = [
     ]
   },
   {
-    name: "Bobby Brown",
-    photo: "https://pbs.twimg.com/profile_images/691785039043022849/oWsy8LNR.jpg",
+    name: "Jessica Kane",
+    photo: "https://static.livebooks.com/a8236c0643ea46a584bb9951803ea096/i/ee5c275ed35947e68de95f3e26801c09/1/4SoifmQp45JMgBnHp7ed2/Boden-Bartholomew4539-copy.jpg",
     scores: [
       "4",
       "2",
@@ -35,8 +35,8 @@ var friends = [
     ]
   },
   {
-    name: "John Appleseed",
-    photo: "https://avatars2.githubusercontent.com/u/8504998?v=3&s=460",
+    name: "Rocky balboa",
+    photo: "https://static1.squarespace.com/static/551f3b77e4b019d7121ca466/55fdcd7be4b0954443b8bb98/55fdcd7de4b024a8a24f56ed/1442696574214/DisctrictPsychotherapy142470-Edit.jpg",
     scores: [
       "5",
       "2",
@@ -51,8 +51,8 @@ var friends = [
     ]
   },
   {
-    name: "",
-    photo: "https://pbs.twimg.com/profile_images/639214960049000449/lNCRC-ub.jpg",
+    name: "Jasmine Smith",
+    photo: "https://www.gruppandrose.com/wp-content/uploads/2015/04/BRE_6141.jpg",
     scores: [
       "3",
       "3",
@@ -67,8 +67,8 @@ var friends = [
     ]
   },
   {
-    name: "Lou Ritter",
-    photo: "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAkDAAAAJDhhZTI5NTk2LWQzZjUtNDJjZi1hMTM2LTQ3ZjNmYjE0YmY2NA.jpg",
+    name: "Vince Carter",
+    photo: "http://sarasotaheadshot.com/images/Boy-Kid-Young-Man-Actor-Headshot-2.jpg",
     scores: [
       "4",
       "3",
@@ -83,8 +83,8 @@ var friends = [
     ]
   },
   {
-    name: "Jordan Biason",
-    photo: "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAisAAAAJGUxYzc4YzA0LWQxMzUtNGI4NS04YTFiLTkwYzM0YTZkNzA2NA.jpg",
+    name: "Indiana Jones",
+    photo: "http://www.jcpportraits.com/sites/jcpportraits.com/files/portrait/1804/183-240_Headshot4.jpg",
     scores: [
       "4",
       "4",
